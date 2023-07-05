@@ -120,3 +120,7 @@
 * 트랜잭션(Transaction)
 * 트랜잭션 격리 수준(Transaction Isolation Level)
 * 레디스(Redis)
+
+# 참고 Reference
+* https://github.com/Songwonseok/CS-Study
+* https://velog.io/@slchoi/CS-스터디
