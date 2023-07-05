@@ -43,7 +43,7 @@
 * 트라이(Trie)
 * B-Tree & B+Tree
 
-📌 Algorithm
+## 📌 Algorithm
 
 * 거품 정렬(Bubble Sort)
 * 선택 정렬(Selection Sort)
