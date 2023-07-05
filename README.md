@@ -121,6 +121,23 @@
 * 트랜잭션 격리 수준(Transaction Isolation Level)
 * 레디스(Redis)
 
+## 📌 컴퓨터 구조
+
+* 컴퓨터의 기본 구조 및 정보의 표현
+* 시스템의 구성
+* CPU의 구조와 기능
+* 컴퓨터 산술과 논리 연산
+* 제어 유니트의 기능
+* 마이크로명령어와 프로그래밍
+* 기억장치
+* 캐시 메모리
+* 보조저장장치
+* 시스템 버스
+* I/O 및 인터럽트
+* 병렬처리
+* 컴퓨터시스템 구조
+
+
 # 참고 Reference
 * https://github.com/Songwonseok/CS-Study
 * https://velog.io/@slchoi/CS-스터디
