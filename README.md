@@ -5,14 +5,14 @@
 * 스터디는 매주 월~금 진행
 * 매일 아침 CS주제와 알고리즘 문제를 선정하여 velog & wiki 작성 및 문제풀이 (알고리즘은 2차 기간에 진행)
 * 학습한 CS는 마크다운으로 정리해서 19시까지 PR을 생성
-* 학습내용 공유는 자신이 이해한 내용을 가르치듯이 설명
+* 학습내용 공유는 자신이 공부한 내용을 가르치듯이 설명
 
 ## 👨‍💻 스터디원
 
 |이름|GitHub|
 |------|---|
-|박희원|@HeewonP825|
-|변지섭|@Jiseob-Byeon|
+|박희원|[@HeewonP825](https://github.com/HeewonP825)|
+|변지섭|[@Jiseob-Byeon](https://github.com/Jiseob-Byeon)|
 
 
 ## 💻 타임 테이블
