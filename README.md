@@ -9,10 +9,10 @@
 
 ## 👨‍💻 스터디원
 
-|이름|GitHub|
-|------|---|
+|이름|GitHub|Velog|
+|------|---|---|
 |박희원|[@HeewonP825](https://github.com/HeewonP825)|
-|변지섭|[@Jiseob-Byeon](https://github.com/Jiseob-Byeon)|
+|변지섭|[@Jiseob-Byeon](https://github.com/Jiseob-Byeon)|https://velog.io/@alfred|
 
 
 ## 💻 타임 테이블
