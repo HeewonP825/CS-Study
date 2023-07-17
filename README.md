@@ -11,7 +11,7 @@
 
 |이름|GitHub|Velog|
 |------|---|---|
-|박희원|[@HeewonP825](https://github.com/HeewonP825)|
+|박희원|[@HeewonP825](https://github.com/HeewonP825)|[@phwon7](https://velog.io/@phwon7)|
 |변지섭|[@Jiseob-Byeon](https://github.com/Jiseob-Byeon)|https://velog.io/@alfred|
 
 
@@ -34,7 +34,8 @@
 
 ## 📌 자료구조
 
-* Array & ArrayList & LinkedList
+* Array & structure, ArrayList
+* single & double LinkedList
 * 스택(Stack) & 큐(Queue)
 * 힙(Heap)
 * 이진탐색트리(Binary Search Tree)
