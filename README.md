@@ -34,7 +34,7 @@
 
 ## 📌 자료구조
 
-* 배열(Array) & 구조체(structure)
+* [배열(Array) & 구조체(structure)](https://github.com/HeewonP825/CS-Study/blob/main/Data%20Structure/Array%20%26%20Structure.md)
 * 스택(Stack) & 큐(Queue)
 * ArrayLists, ingle & double LinkedList
 * 이진탐색트리(Binary Search Tree)
