@@ -34,12 +34,13 @@
 
 ## 📌 자료구조
 
-* Array & structure, ArrayList
-* single & double LinkedList
+* 배열(Array) & 구조체(structure)
 * 스택(Stack) & 큐(Queue)
-* 힙(Heap)
+* ArrayLists, ingle & double LinkedList
 * 이진탐색트리(Binary Search Tree)
 * 그래프(Graph)
+* 정렬(sorting)
+* 힙(Heap)
 * 해시(Hash)
 * 트라이(Trie)
 * B-Tree & B+Tree
