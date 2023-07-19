@@ -66,9 +66,8 @@
 
 ## 📌 운영체제
 
-* [운영체제란?](https://github.com/HeewonP825/CS-Study/blob/main/Operating%20Systems/Intro.md)
-* 프로세스 vs 스레드
-* 프로세스 주소 공간
+* [운영체제란?](https://github.com/Jiseob-Byeon/CS-Study/blob/main/Operating%20Systems/Intro.md)
+* [프로세스(프로세스 vs 스레드 / 프로세스 주소 공간 / 프로세스 전환 / fork, zombie, orphan)](https://github.com/Jiseob-Byeon/CS-Study/blob/main/Operating%20Systems/Process.md)
 * 인터럽트(Interrupt)
 * 시스템 콜(System Call)
 * PCB와 Context Switching
