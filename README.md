@@ -35,7 +35,7 @@
 ## 📌 자료구조
 
 * [배열(Array) & 구조체(structure)](https://github.com/HeewonP825/CS-Study/blob/main/Data%20Structure/Array%20%26%20Structure.md)
-* 스택(Stack) & 큐(Queue)
+* [스택(Stack) & 큐(Queue)](https://velog.io/@phwon7/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9DStack%EA%B3%BC-%ED%81%90Queue-1)
 * ArrayLists, single & double LinkedList
 * 이진탐색트리(Binary Search Tree)
 * 그래프(Graph)
