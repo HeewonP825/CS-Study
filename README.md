@@ -69,7 +69,7 @@
 * [운영체제란?](https://github.com/Jiseob-Byeon/CS-Study/blob/main/Operating%20Systems/Intro.md)
 * [프로세스](https://github.com/Jiseob-Byeon/CS-Study/blob/main/Operating%20Systems/Process.md)
 * [스레드(Thread)](https://velog.io/@alfred/스레드)
-* 시스템 콜(System Call)
+* [CPU 스케줄링(CPU Scheduling)(https://velog.io/@alfred/CPU-스케줄링)]
 * PCB와 Context Switching
 * IPC(Inter Process Communication)
 * CPU 스케줄링
