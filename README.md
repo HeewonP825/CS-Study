@@ -12,7 +12,7 @@
 |이름|GitHub|Velog|
 |------|---|---|
 |박희원|[@HeewonP825](https://github.com/HeewonP825)|[@phwon7](https://velog.io/@phwon7)|
-|변지섭|[@Jiseob-Byeon](https://github.com/Jiseob-Byeon)|https://velog.io/@alfred|
+|변지섭|[@Jiseob-Byeon](https://github.com/Jiseob-Byeon)|[@alfred](https://velog.io/@alfred)|
 
 
 ## 💻 타임 테이블
