@@ -66,20 +66,16 @@
 
 ## 📌 운영체제
 
-* [운영체제란?](https://github.com/Jiseob-Byeon/CS-Study/blob/main/Operating%20Systems/Intro.md)
+* [Intro](https://github.com/Jiseob-Byeon/CS-Study/blob/main/Operating%20Systems/Intro.md)
 * [프로세스](https://github.com/Jiseob-Byeon/CS-Study/blob/main/Operating%20Systems/Process.md)
 * [스레드(Thread)](https://velog.io/@alfred/스레드)
 * [CPU 스케줄링(CPU Scheduling)](https://velog.io/@alfred/CPU-스케줄링)
-* PCB와 Context Switching
-* IPC(Inter Process Communication)
-* CPU 스케줄링
+* 동기화 툴(Synchronization Tools: Mutex, Semaphore)
 * 데드락(DeadLock)
-* Race Condition
-* 세마포어(Semaphore) & 뮤텍스(Mutex)
-* 페이징 & 세그먼테이션
-* 페이지 교체 알고리즘
-* 메모리(Memory)
-* 파일 시스템
+* 메인 메모리(Paging, Swapping)
+* 가상 메모리(Demand Paging, Thrashing)
+* 스토리지(파일) 관리(File System)
+* 디바이스 관리
 
 # 2차 기간(09.04 ~ 11.03)
 
