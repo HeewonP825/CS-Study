@@ -36,7 +36,7 @@
 
 * [배열(Array) & 구조체(structure)](https://github.com/HeewonP825/CS-Study/blob/main/Data%20Structure/Array%20%26%20Structure.md)
 * [스택(Stack) & 큐(Queue)](https://github.com/HeewonP825/CS-Study/commit/e2fd13c20750585bbf108421607f2d4411a1f79e)
-* ArrayLists, single & double LinkedList
+* 배열리스트 & 연결리스트(ArrayLists & LinkedList)
 * 트리(Tree)
 * 그래프(Graph)
 * 정렬(sorting)
