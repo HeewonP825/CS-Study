@@ -37,7 +37,7 @@
 * [배열(Array) & 구조체(structure)](https://github.com/HeewonP825/CS-Study/blob/main/Data%20Structure/Array%20%26%20Structure.md)
 * [스택(Stack) & 큐(Queue)](https://github.com/HeewonP825/CS-Study/commit/e2fd13c20750585bbf108421607f2d4411a1f79e)
 * ArrayLists, single & double LinkedList
-* 이진탐색트리(Binary Search Tree)
+* 트리(Tree)
 * 그래프(Graph)
 * 정렬(sorting)
 * 힙(Heap)
@@ -47,22 +47,23 @@
 
 ## 📌 Algorithm
 
-* 거품 정렬(Bubble Sort)
-* 선택 정렬(Selection Sort)
-* 삽입 정렬(Insertion Sort)
-* 퀵 정렬(Quick Sort)
-* 합병 정렬(Merge Sort)
-* 힙 정렬(Heap Sort)
-* 기수 정렬(Radix Sort)
-* 계수 정렬(Count Sort)
-* 비트마스크(BitMask)
+* 알고리즘
+* 분할 정복(Divide & Conquer)
+* 동적 계획법(Dynamic Programming)
+* 탐욕법(Greedy Approach)
+* DFS & BFS
+* 백 트래킹(Backtracking)
 * 이분 탐색(Binary Search)
+* 정렬1(Bubble/Selection/Insertion/Quick sort)
+* 정렬2(Merge/Heap/Radix/Count sort)
+* Branch & Bound
+* Computional Complexitiy
+* intractabillity & NP-Theory
+* 비트마스크(BitMask)
 * 세그먼트 트리
 * 해시(Hash)
-* DFS & BFS
 * 최장 증가 수열(LIS)
 * 최소 공통 조상(LCA)
-* 동적 계획법(Dynamic Programming)
 
 ## 📌 운영체제
 
