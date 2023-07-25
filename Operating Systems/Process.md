@@ -44,4 +44,5 @@
 
 ## Reference
 1. 강순주 교수님 ppt 02, 03
-2. https://www.kernelpanic.kr/16
+2. Operating System Concepts 10ed. Abraham Silberschatz
+3. https://www.kernelpanic.kr/16
