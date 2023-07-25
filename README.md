@@ -67,8 +67,8 @@
 
 ## 📌 운영체제
 
-* [Intro](https://github.com/Jiseob-Byeon/CS-Study/blob/main/Operating%20Systems/Intro.md)
-* [프로세스](https://github.com/Jiseob-Byeon/CS-Study/blob/main/Operating%20Systems/Process.md)
+* [Intro](https://velog.io/@alfred/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-Intro-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80)
+* [프로세스](https://velog.io/@alfred/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-h6e77pvu)
 * [스레드(Thread)](https://velog.io/@alfred/스레드)
 * [CPU 스케줄링(CPU Scheduling)](https://velog.io/@alfred/CPU-스케줄링)
 * [동기화 툴(Synchronization Tools: Mutex, Semaphore)](https://velog.io/@alfred/%EB%8F%99%EA%B8%B0%ED%99%94-%ED%88%B4Synchronization-Tools-Semaphore-Mutex)
