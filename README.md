@@ -72,7 +72,7 @@
 * [스레드(Thread)](https://velog.io/@alfred/스레드)
 * [CPU 스케줄링(CPU Scheduling)](https://velog.io/@alfred/CPU-스케줄링)
 * [동기화 툴(Synchronization Tools: Mutex, Semaphore)](https://velog.io/@alfred/%EB%8F%99%EA%B8%B0%ED%99%94-%ED%88%B4Synchronization-Tools-Semaphore-Mutex)
-* 데드락(DeadLock)
+* [데드락(DeadLock)](https://velog.io/@alfred/%EB%8D%B0%EB%93%9C%EB%9D%BDDeadlocks)
 * 메인 메모리(Paging, Swapping)
 * 가상 메모리(Demand Paging, Thrashing)
 * 스토리지(파일) 관리(File System)
