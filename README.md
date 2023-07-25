@@ -42,7 +42,6 @@
 * 정렬(sorting)
 * 힙(Heap)
 * 해시(Hash)
-* 트라이(Trie)
 * B-Tree & B+Tree
 
 ## 📌 Algorithm
