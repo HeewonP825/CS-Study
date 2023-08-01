@@ -73,7 +73,7 @@
 * [동기화 툴(Synchronization Tools: Mutex, Semaphore)](https://velog.io/@alfred/%EB%8F%99%EA%B8%B0%ED%99%94-%ED%88%B4Synchronization-Tools-Semaphore-Mutex)
 * [데드락(DeadLock)](https://velog.io/@alfred/%EB%8D%B0%EB%93%9C%EB%9D%BDDeadlocks)
 * [메인 메모리(Paging, Swapping)](https://velog.io/@alfred/메인-메모리-관리)
-* 가상 메모리(Demand Paging, Thrashing)
+* [가상 메모리(Demand Paging, Thrashing)](https://velog.io/@alfred/가상-메모리)
 * 스토리지(파일) 관리(File System)
 * 디바이스 관리
 
