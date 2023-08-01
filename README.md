@@ -42,7 +42,7 @@
 * 정렬(sorting)
 * 힙(Heap)
 * 해시(Hash)
-* B-Tree & B+Tree
+* B-Tree & B+Tree & B*Tree
 
 ## 📌 Algorithm
 
