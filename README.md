@@ -55,14 +55,10 @@
 * 이분 탐색(Binary Search)
 * 정렬1(Bubble/Selection/Insertion/Quick sort)
 * 정렬2(Merge/Heap/Radix/Count sort)
-* Branch & Bound
-* Computional Complexitiy
-* intractabillity & NP-Theory
 * 비트마스크(BitMask)
 * 세그먼트 트리
 * 해시(Hash)
 * 최장 증가 수열(LIS)
-* 최소 공통 조상(LCA)
 
 ## 📌 운영체제
 
