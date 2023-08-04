@@ -40,7 +40,6 @@
 * [트리(Tree)](https://github.com/HeewonP825/CS-Study/blob/main/Data%20Structure/Tree.md)
 * 그래프(Graph)
 * 정렬(sorting)
-* 힙(Heap)
 * 해시(Hash)
 * B-Tree & B+Tree & B*Tree
 
