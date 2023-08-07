@@ -70,7 +70,7 @@
 * [메인 메모리(Paging, Swapping)](https://velog.io/@alfred/메인-메모리-관리)
 * [가상 메모리(Demand Paging, Thrashing)](https://velog.io/@alfred/가상-메모리)
 * [파일 관리(File Management)](https://velog.io/@alfred/파일-관리)
-* 디바이스 관리
+* [디바이스 관리(Device Management)](https://velog.io/@alfred/디바이스-관리)
 
 # 2차 기간(09.04 ~ 11.03)
 
