@@ -38,7 +38,7 @@
 * [스택(Stack) & 큐(Queue)](https://github.com/HeewonP825/CS-Study/commit/e2fd13c20750585bbf108421607f2d4411a1f79e)
 * [배열리스트 & 연결리스트(ArrayLists & LinkedList)](https://github.com/HeewonP825/CS-Study/blob/main/Data%20Structure/ArrayList%20%26%20LinkedList.md)
 * [트리(Tree)](https://github.com/HeewonP825/CS-Study/blob/main/Data%20Structure/Tree.md)
-* 그래프(Graph)
+* [그래프(Graph)](https://github.com/HeewonP825/CS-Study/tree/main/Data%20Structure)
 * 정렬(sorting)
 * 해시(Hash)
 * B-Tree & B+Tree & B*Tree
