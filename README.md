@@ -27,6 +27,9 @@
 ## 📚 알고리즘 Study
 
 * Daily 알고리즘 문제 백준/프로그래머스에서 선정
+[https://covenant.tistory.com/224]: 매일 2문제(개강 전)
+[https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit]: 매일 1문제(개강 후),
+백준 실버~골드 문제 병행
 * python (or c++) 소스파일 업로드
   
 
