@@ -41,8 +41,7 @@
 * [그래프(Graph)](https://github.com/HeewonP825/CS-Study/tree/main/Data%20Structure)
 * [그래프 응용](https://github.com/HeewonP825/CS-Study/tree/main/Data%20Structure)
 * [정렬(sorting)](https://github.com/HeewonP825/CS-Study/blob/main/Data%20Structure/Sort(2).md)
-* 해시(Hash)
-* B-Tree & B+Tree & B*Tree
+* [해시(Hash)](https://github.com/HeewonP825/CS-Study/tree/main/Data%20Structure)
 
 ## 📌 Algorithm
 
