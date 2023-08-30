@@ -3,7 +3,6 @@
 A, B를 각각 index(반복되는 숫자), offset(몇 번째)으로 나누자 -> index는 A에 0 이상의 정수를 빼는 식으로, 
                                                        offset은 자연수의 합 리스트를 이용하여 가장 가까우면서 작은 합의 index보다 1 크게
 -> 합은 index가 같을 때 index), index가 1 차이날 때, index가 2 이상 차이날 때로 나누어 계산
-
 사실 군수열 문제 -> index, offset으로 접근한 방법이 맞았음
 '''
 
